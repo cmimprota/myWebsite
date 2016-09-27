@@ -98,6 +98,7 @@ nav a#pull {
 /*Footer*/
 .footer_bg{
 	background: #222222;
+	background-size:cover;
 	width: 100%;
 }
 .copy p{
@@ -235,6 +236,8 @@ nav a#pull {
 	}
 
 	.banner{
+		margin-top: 5px;
+		margin-bottom: 15px;
 		height: 100%;
 		width:100%;
 	}
@@ -269,9 +272,10 @@ nav a#pull {
 
 	/*Photo slider*/
 	.hpslider {
-		width: 1170px; height: 200px;
+		width: 1170px; height: 250px;
 		overflow: hidden;
 	  	margin: 0px auto;
+
 	}
 	
 	.hpslider ul { 
